@@ -1,2 +1,3 @@
 # StoreMyAPI
-<iframe src="https://giphy.com/embed/BfuBRDSdSmanmOwOzW" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cooking-kitchen-cook-BfuBRDSdSmanmOwOzW">via GIPHY</a></p>
+
+![giphy](https://github.com/Anikets08/storemyapi/assets/63359563/ac65c45e-a887-4fa7-90a5-6642c53733a5)
